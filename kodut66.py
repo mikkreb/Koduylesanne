@@ -1,7 +1,5 @@
 import time
 
-error = "Antud käsklus ei sobinud selle mängu juhtimiseks"
-
 print("""Ärkasid metsas. On väga pime ja sa ei saa aru
 kuidas sa siia sattusid. Sul pole peale telefoni mitte midagi kaasas.
 Telefonil on aku tühi. Sa ei tea teed metsast välja, sest mets on võõras.
